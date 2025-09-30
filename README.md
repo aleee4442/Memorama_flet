@@ -45,12 +45,15 @@ Make sure you install the correct version of **Flet**, otherwise the project wil
 ## Screenshots
 
 Home
+
 <img width="620" height="410" alt="image" src="https://github.com/user-attachments/assets/0bf343aa-3ee0-40a5-9c2b-5d1299e2268b" />
 
 Game
+
 <img width="608" height="412" alt="image" src="https://github.com/user-attachments/assets/943c667f-9195-4c8a-bf61-dab4f4a1ce24" />
 
 End
+
 <img width="605" height="404" alt="image" src="https://github.com/user-attachments/assets/19af3d8e-b672-4ef3-9000-bd5450e47841" />
 
 ## How to Run
