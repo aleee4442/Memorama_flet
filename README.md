@@ -66,9 +66,17 @@ End
 2. Navigate to the project folder:
 
    ```bash
-   cd memorama-project
+   cd Memorama_flet
    ```
 3. Install dependencies:
+
+   ```bash
+   python -m venv .venv
+   ```
+
+   ```bash
+   source .venv/bin/activate 
+   ```
 
    ```bash
    pip install flet==0.25.1
